@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fea34ed-4e21-40e7-981c-dcb8d117ee52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1qNnI56WMypwUmoq01QPkxiYfQU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/dingy/AndroidSDK/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.hhu.dingy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HbaseDML">
+    <configuration name="AppHanjiang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.hhu.dingy.AppHanjiang" />
+      <module name="HBaseDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.hhu.dingy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppHuaihe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.hhu.dingy.AppHuaihe" />
+      <module name="HBaseDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.hhu.dingy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppZiyahe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.hhu.dingy.AppZiyahe" />
+      <module name="HBaseDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.hhu.dingy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseDML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.hhu.dingy.hbase.HbaseDML" />
+      <module name="HBaseDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.hhu.dingy.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testForLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HBaseDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.hhu.dingy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.hhu.dingy" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.hhu.dingy.AppTest" />
+      <option name="METHOD_NAME" value="testForLoop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HbaseDML" />
+        <item itemvalue="Application.AppZiyahe" />
+        <item itemvalue="JUnit.AppTest.testForLoop" />
+        <item itemvalue="Application.AppHanjiang" />
+        <item itemvalue="Application.AppHuaihe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fea34ed-4e21-40e7-981c-dcb8d117ee52" name="Default Changelist" comment="" />
+      <created>1616928834088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616928834088</updated>
+      <workItem from="1616928841675" duration="259000" />
+      <workItem from="1616929136414" duration="765000" />
+      <workItem from="1617000133248" duration="166000" />
+      <workItem from="1617068788572" duration="3787000" />
+      <workItem from="1617095500181" duration="540000" />
+      <workItem from="1617155327393" duration="2200000" />
+      <workItem from="1617168028640" duration="31000" />
+      <workItem from="1617169315018" duration="4649000" />
+      <workItem from="1617268165940" duration="2871000" />
+      <workItem from="1617358206982" duration="2049000" />
+      <workItem from="1617362157211" duration="8999000" />
+      <workItem from="1617375259535" duration="1944000" />
+      <workItem from="1617419090506" duration="14832000" />
+      <workItem from="1617463761822" duration="74000" />
+      <workItem from="1617507710092" duration="215000" />
+      <workItem from="1617542809585" duration="150000" />
+      <workItem from="1617546246892" duration="333000" />
+      <workItem from="1617547156435" duration="664000" />
+      <workItem from="1617680760085" duration="215000" />
+      <workItem from="1617698875312" duration="5701000" />
+      <workItem from="1617714574306" duration="2399000" />
+      <workItem from="1617804789431" duration="206000" />
+      <workItem from="1617805035266" duration="762000" />
+      <workItem from="1618209106003" duration="2435000" />
+      <workItem from="1618216172451" duration="23431000" />
+      <workItem from="1618394197530" duration="9175000" />
+      <workItem from="1618557291114" duration="8888000" />
+      <workItem from="1618641567604" duration="13302000" />
+      <workItem from="1618818781448" duration="13108000" />
+      <workItem from="1619064457705" duration="12081000" />
+      <workItem from="1619155777363" duration="11810000" />
+      <workItem from="1619328503702" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="140" key="FileChooserDialogImpl" timestamp="1618209146845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617546421082" />
+    <state x="624" y="140" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618209146845" />
+    <state width="1096" height="560" key="GridCell.Tab.0.bottom" timestamp="1619187010128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="359" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617441115538" />
+    <state width="1480" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617726518608" />
+    <state width="1096" height="560" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010128" />
+    <state width="1096" height="560" key="GridCell.Tab.0.center" timestamp="1619187010128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="359" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617441115538" />
+    <state width="1480" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617726518608" />
+    <state width="1096" height="560" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010128" />
+    <state width="1096" height="560" key="GridCell.Tab.0.left" timestamp="1619187010128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="359" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617441115538" />
+    <state width="1480" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617726518607" />
+    <state width="1096" height="560" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010128" />
+    <state width="1096" height="560" key="GridCell.Tab.0.right" timestamp="1619187010128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="359" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617441115538" />
+    <state width="1480" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617726518608" />
+    <state width="1096" height="560" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010128" />
+    <state width="1096" height="560" key="GridCell.Tab.1.bottom" timestamp="1619187010129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="267" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617371800548" />
+    <state width="1096" height="560" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010129" />
+    <state width="1096" height="560" key="GridCell.Tab.1.center" timestamp="1619187010129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="267" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617371800548" />
+    <state width="1096" height="560" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010129" />
+    <state width="1096" height="560" key="GridCell.Tab.1.left" timestamp="1619187010128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="267" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617371800548" />
+    <state width="1096" height="560" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010128" />
+    <state width="1096" height="560" key="GridCell.Tab.1.right" timestamp="1619187010129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="267" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617371800548" />
+    <state width="1096" height="560" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619187010129" />
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog" timestamp="1617368416662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1617368416662" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1619328539063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619328539063" />
+    <state x="193" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618209152439" />
+    <state x="653" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618561044462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618561044462" />
+    <state x="833" y="233" key="run.anything.popup" timestamp="1619185149862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="185" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1617174139263" />
+    <state x="833" y="233" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619185149862" />
+    <state x="673" y="-2" width="840" height="1034" key="search.everywhere.popup" timestamp="1617173867230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="673" y="-2" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617173867230" />
+  </component>
+</project>
